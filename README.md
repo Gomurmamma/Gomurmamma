@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <!--
 **Gomurmamma/Gomurmamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+My name is Antonio Young and I am a Full Stack Web Developer. I have a passion for programming and really enjoy building applications from scratch in adddition to contributing to open source software. I have been coding since 2021 and am enrolled at East Stroudsburg University to pursue a BS in Computer Science.
