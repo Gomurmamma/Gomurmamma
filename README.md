@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Antonio Young and I am a Full Stack Web Developer. I have a passion for programming and really enjoy building applications from scratch in adddition to making open source contributions.
+My name is Antonio Young and I am a Full Stack Web Developer. I have a passion for programming and really enjoy building applications from scratch.
